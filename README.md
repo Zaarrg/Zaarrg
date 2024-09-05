@@ -38,7 +38,7 @@
 - 🛡️ Implementation of robust security measures for dedicated servers
 - 🧰 Management and security optimization of dedicated server infrastructures
 - 🖼️ AI integration: image recognition and generation in web applications
-- 🔓 Decompiling and modding obfuscated code for game enhancements
+- 🔓 Decompiling and modding obfuscated code for enhancements
 
 ---
 
