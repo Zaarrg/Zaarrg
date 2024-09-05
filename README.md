@@ -28,6 +28,7 @@
 - 🔒 Server Security & Management
 - 🧠 AI Integration in Web Applications
 - 🔍 Code Analysis, Decompiling & Modification
+- 🚗 Automotive Embedded Systems (ECU Tuning, Memory Analysis)
 
 ---
 
@@ -39,6 +40,7 @@
 - 🧰 Management and security optimization of dedicated server infrastructures
 - 🖼️ AI integration: image recognition and generation in web applications
 - 🔓 Decompiling and modding obfuscated code for enhancements
+- 🚙 ECU memory analysis and modification using professional tools (KTag, KESS, FG Tech EOBD2)
 
 ---
 
