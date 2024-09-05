@@ -16,7 +16,7 @@
 ---
 
 ### 🚀 About Me
-**4 years** of crafting digital solutions | Turning complex problems into elegant code
+**5 years** of crafting digital solutions | Turning complex problems into elegant code
 
 ---
 
