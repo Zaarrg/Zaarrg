@@ -1,4 +1,4 @@
-# 👨‍💻 Zarg | Freelance Developer Extraordinaire
+# 👨‍💻 Zarg 
 
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 [![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)](https://www.java.com/)
@@ -16,7 +16,7 @@
 ---
 
 ### 🚀 About Me
-**5 years** of crafting digital solutions | Turning complex problems into elegant code
+**5 years** of crafting digital solutions
 
 ---
 
