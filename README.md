@@ -45,6 +45,8 @@
 ---
 
 ### 📫 Let's Connect!
-[![Discord](https://img.shields.io/badge/zarg.-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/)
+
+[![Discord](https://img.shields.io/badge/Discord_Server_|_zarg.-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/rV26FZ2upF)
 [![Email](https://img.shields.io/badge/zarrg.dev@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zarrg.dev@gmail.com)
 [![Support me on Ko‑fi](https://img.shields.io/badge/Support%20me%20on%20Ko--fi-grey?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/zaarrg)
+
