@@ -28,8 +28,8 @@
   <b>Web</b> · React / Next.js frontends & Node.js APIs<br/>
   <b>Backend & Algorithms</b> · Rust services, high-throughput APIs, parsing & matching logic<br/>
   <b>Automation & Scraping</b> · high-volume crawlers, challenge / anti-bot handling<br/>
-  <b>Systems & Security</b> · Linux servers, hardening, CI/CD, containerized services<br/>
-  <b>Reverse Engineering</b> · code analysis, decompiling, protocols & memory work<br/>
+  <b>Systems & Security</b> · Linux servers, CI/CD, containerized services<br/>
+  <b>Reverse Engineering</b> · code analysis, decompiling<br/>
   <b>Automotive / Embedded</b> · ECU tooling, diagnostics, data analysis
 </p>
 
