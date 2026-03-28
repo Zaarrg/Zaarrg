@@ -20,48 +20,22 @@
   />
 </p>
 
-
 ---
 
-<h3 align="center">🛠 Technical Focus</h3>
+<h3 align="center">Technical Focus</h3>
 
 <p align="center">
-  🌐 <b>Web</b> · React / Next.js frontends & Node.js APIs<br/>
-  🧠 <b>Backend & Algorithms</b> · Rust services, high-throughput APIs, parsing & matching logic<br/>
-  🤖 <b>Automation & Scraping</b> · high-volume crawlers, challenge / anti-bot handling<br/>
-  🛡️ <b>Systems & Security</b> · Linux servers, hardening, CI/CD, containerized services<br/>
-  🕵️ <b>Reverse Engineering</b> · code analysis, decompiling, protocols & memory work<br/>
-  🚗 <b>Automotive / Embedded</b> · ECU tooling, diagnostics, data analysis
+  <b>Web</b> · React / Next.js frontends & Node.js APIs<br/>
+  <b>Backend & Algorithms</b> · Rust services, high-throughput APIs, parsing & matching logic<br/>
+  <b>Automation & Scraping</b> · high-volume crawlers, challenge / anti-bot handling<br/>
+  <b>Systems & Security</b> · Linux servers, hardening, CI/CD, containerized services<br/>
+  <b>Reverse Engineering</b> · code analysis, decompiling, protocols & memory work<br/>
+  <b>Automotive / Embedded</b> · ECU tooling, diagnostics, data analysis
 </p>
 
 ---
 
-<h3 align="center">⚙️ Stack</h3>
-
-<p align="center">
-  <!-- Languages & runtimes -->
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
-  <br/>
-
-  <!-- Domains / infra -->
-  <img src="https://img.shields.io/badge/-Web%20Scraping-4A154B?style=flat-square&logo=scraping&logoColor=white" />
-  <img src="https://img.shields.io/badge/-AI-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Server%20Management-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white" />
-  <img src="https://img.shields.io/badge/-API%20Development-009688?style=flat-square&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Cybersecurity-003B57?style=flat-square&logo=caddy&logoColor=white" />
-</p>
-
----
-
-<h3 align="center">📫 Contact</h3>
+<h3 align="center">Contact</h3>
 
 <p align="center">
   <a href="https://discord.gg/rV26FZ2upF">
@@ -74,5 +48,3 @@
     <img src="https://img.shields.io/badge/Support%20me%20on%20Ko--fi-grey?style=for-the-badge&logo=ko-fi&logoColor=white" />
   </a>
 </p>
-
-
